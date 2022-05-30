@@ -1,0 +1,13 @@
+.page-titles {
+    text-align: center;
+    font-size: 64px;
+    font-family: "Brush Script MT",cursive;
+}
+
+.proportion {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto;
+}
